@@ -1,0 +1,16 @@
+*.png
+*.pickle
+*.pdf
+*.csv
+*.bib
+*.bbl
+*.aux
+*.log
+*.blg
+*.tex
+*.gz
+Flight_Data
+*.rar
+*.txt
+*.ini
+_Report_.rar
